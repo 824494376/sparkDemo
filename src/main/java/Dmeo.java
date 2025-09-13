@@ -9,5 +9,6 @@ public class Dmeo {
         }else{
             System.out.println("else");
         }
+        System.out.println("测试");
     }
 }
